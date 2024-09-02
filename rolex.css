@@ -1,0 +1,93 @@
+.body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+.header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    padding: 5px;
+    margin: 20px;
+    justify-content: right;
+    
+    
+}
+.header li{
+    margin-right: 20px;
+    text-decoration: none;
+    
+}
+.header a{
+    text-decoration: none;
+    list-style-type: none;
+    word-spacing: 3px;
+    padding: 20px;
+}
+.header li:hover{
+    color: #1db44b;
+    margin-right: 20px;
+    text-decoration: none;
+    
+}
+.image{
+    align-items: center;
+}
+
+.iframe{
+    border:none;
+    
+
+}
+.jyothi{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 20px;
+
+}
+h1{
+    padding: 20px;
+
+}
+.div1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.div1 p{
+    padding-left: 20px;
+    margin-left: 200px;
+    color: rgb(78, 75, 75);
+    font-weight: lighter;
+    justify-content: space-between;
+    line-height: 250%;
+}
+.div1 h{
+    margin-left: 700px;
+}
+
+.header1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    padding: 20px;
+    margin: 30px;
+    justify-content: right;
+    
+    
+}
+.header1 li:hover{
+    color: #197149;
+    margin-right: 20px;
+    text-decoration: none;
+    
+}
+.header1 a{
+    text-decoration: none;
+    list-style-type: none;
+    word-spacing: 3px;
+    padding: 20px;
+}
+.images{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+}
+
+
